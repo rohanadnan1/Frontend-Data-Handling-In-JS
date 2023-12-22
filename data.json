@@ -1,0 +1,59 @@
+  {
+    "users": [
+      {
+        "id": 1,
+        "username": "john_doe",
+        "email": "john.doe@example.com",
+        "age": 28,
+        "address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zip": "12345"
+        },
+        "phone": "+1 123-456-7890",
+        "hobbies": ["reading", "hiking"],
+        "social_media": {
+          "twitter": "@johndoe",
+          "instagram": "johndoe123"
+        }
+      },
+      {
+        "id": 2,
+        "username": "alice_smith",
+        "email": "alice.smith@example.com",
+        "age": 35,
+        "address": {
+          "street": "456 Oak Ave",
+          "city": "Somecity",
+          "state": "NY",
+          "zip": "67890"
+        },
+        "phone": "+1 987-654-3210",
+        "hobbies": ["painting", "traveling"],
+        "social_media": {
+          "facebook": "alice.smith.official",
+          "linkedin": "alicesmith"
+        }
+      },
+      {
+        "id": 3,
+        "username": "bob_jackson",
+        "email": "bob.jackson@example.com",
+        "age": 22,
+        "address": {
+          "street": "789 Pine Rd",
+          "city": "Anothercity",
+          "state": "TX",
+          "zip": "54321"
+        },
+        "phone": "+1 555-555-5555",
+        "hobbies": ["coding", "gaming"],
+        "social_media": {
+          "github": "bobjackson",
+          "stackoverflow": "bobcoder"
+        }
+      }
+    ]
+  }
+  
